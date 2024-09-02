@@ -1,4 +1,8 @@
 
+[image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FvaTd2NHUwbnhnZ2xzdjZsZGxraXg4ZmZxNTh1MTAxYXBkY2w0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp)
+
+
+
 # Hello, I'm Vishwas Khandelwal 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in Physics and a keen interest in data science, business analytics, and machine learning. 
