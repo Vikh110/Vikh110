@@ -1,3 +1,8 @@
+![Hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXozYnhpdWtnam1qdWY3cmF6enNzYWNneWx2Zmh3NmdtY3Q2ejFjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BElb9DVpHezcZufOhl/giphy.webp) 
+
+
+
+
 # Hello, I'm Vishwas Khandelwal 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in Physics and a keen interest in data science, business analytics, and machine learning. 
@@ -35,7 +40,7 @@ And if you ever want to chat about philosophy, just mention Immanuel Kant—he's
 
 
 
-![Immanuel Kant](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1paDRyb3NhNmY1dWF3bjZwNGtsOHczZ2Q3MGc5OXcxdDRxMXphZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11LmeD33ETXN1C/giphy.webp))  
+![Immanuel Kant](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1paDRyb3NhNmY1dWF3bjZwNGtsOHczZ2Q3MGc5OXcxdDRxMXphZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11LmeD33ETXN1C/giphy.webp)  
 
 
 
