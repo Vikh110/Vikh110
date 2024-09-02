@@ -32,7 +32,13 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 When I'm not diving deep into datasets or building interactive dashboards, you can find me immersed in the world of philosophy. 
 📚 I'm a big fan of Indian and Western philosophy, and I've read a variety of books on these subjects. The concepts of Advaitvada and Strict Monism? Absolutely fascinating! 
 And if you ever want to chat about philosophy, just mention Immanuel Kant—he's my favorite philosopher. His ideas on metaphysics and epistemology have left quite an impression on me!
+
+
+
 ![Immanuel Kant](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1paDRyb3NhNmY1dWF3bjZwNGtsOHczZ2Q3MGc5OXcxdDRxMXphZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11LmeD33ETXN1C/giphy.webp))  
+
+
+
 
 ## 📫 How to Reach Me
 
