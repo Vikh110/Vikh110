@@ -15,6 +15,16 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 - **Technical Proficiency**: Skilled in Python, SQL, Power BI, Tableau, and Excel for data analysis and visualization.
 - **Project Management**: Experience in handling data-driven projects from inception to completion, ensuring high-quality deliverables.
 
+
+
+
+![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzc293NnN2bTRyYWZrNGR0eHVobzZzZjB6Z2xlcjdteXhoaXdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp)
+
+
+
+
+
+
 ## 🌱 What I Have Worked On
 
 - **Movie Ratings Analysis**: A data analysis project focused on understanding trends and patterns in movie ratings.
