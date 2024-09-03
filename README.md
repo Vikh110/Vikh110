@@ -27,9 +27,16 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 
 ## 🌱 What I Have Worked On
 
-- **Movie Ratings Analysis**: A data analysis project focused on understanding trends and patterns in movie ratings.
-- **AirBnB Listing Analysis**: Analyzing Paris AirBnB listings to assess the impact of regulatory changes.
-- **CRM Dashboard**: Developed an interactive Power BI dashboard to optimize customer relationship management.
+- **Movie Ratings Analysis**: Applied Python for data analysis and bias detection, comparing Fandango's movie ratings against other platforms to reveal discrepancies.
+
+- **AirBnB Listing Analysis**: Analyzing Paris AirBnB listings to assess the impact of regulatory changes using Python.
+
+- **Comprehensive Bike-Share Data Analytics: SQL and Power BI Insights**: Utilized SQL for data extraction and transformation and Power BI for visual analytics to extract actionable insights from bike-share data.
+
+- **Sales Analytics: Power BI Dashboard**: Developed an interactive Power BI dashboard for tracking KPIs, analyzing product trends, and identifying high-value customers for strategic insights.
+
+- **Sales Analytics: Excel Report**: Utilized Excel to compile a comprehensive sales report, analyzing customer behavior and delivering strategic insights for improving departmental store performance
+.
 
 ## 🎓 Educational Background
 
