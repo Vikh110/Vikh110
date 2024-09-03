@@ -27,7 +27,7 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 
 ## 🌱 What I Have Worked On
 
-- **Movie Ratings Analysis**: Applied Python for data analysis and bias detection, comparing Fandango's movie ratings against other platforms to reveal discrepancies.
+- ![**Movie Ratings Analysis**](https://github.com/Vikh110/Exploring-Cinematic-Ratings-Bias-Detection-and-Analysis): Applied Python for data analysis and bias detection, comparing Fandango's movie ratings against other platforms to reveal discrepancies.
 
 - **AirBnB Listing Analysis**: Analyzing Paris AirBnB listings to assess the impact of regulatory changes using Python.
 
