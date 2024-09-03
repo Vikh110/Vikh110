@@ -31,7 +31,7 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 
 - [**AirBnB Listing Analysis**](https://github.com/Vikh110/Airbnb-Listing-Analysis): Analyzing Paris AirBnB listings to assess the impact of regulatory changes using Python.
 
-- [**Comprehensive Bike-Share Data Analytics](https://github.com/Vikh110/Cyclistic-bike-share-analysis-case-study): SQL and Power BI Insights**: Utilized SQL for data extraction and transformation and Power BI for visual analytics to extract actionable insights from bike-share data.
+- [**Comprehensive Bike-Share Data Analytics**](https://github.com/Vikh110/Cyclistic-bike-share-analysis-case-study): SQL and Power BI Insights**: Utilized SQL for data extraction and transformation and Power BI for visual analytics to extract actionable insights from bike-share data.
 
 - [**Sales Analytics: Power BI Dashboard**](https://github.com/Vikh110/AdventureWorks-Power-BI-Project): Developed an interactive Power BI dashboard for tracking KPIs, analyzing product trends, and identifying high-value customers for strategic insights.
 
