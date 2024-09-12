@@ -8,6 +8,8 @@
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in Physics and a keen interest in data science, business analytics, and machine learning. 
 My journey from Physics to Data Analytics has equipped me with a unique blend of analytical skills and technical expertise. 
 I'm currently pursuing an MBA in Business Analytics from Symbiosis International University.
+I'm on a journey to master Data Science, with a keen focus on strengthening my understanding of statistics and mathematics.
+
 
 ## 🌟 What I Bring to the Table
 
@@ -41,14 +43,22 @@ I'm currently pursuing an MBA in Business Analytics from Symbiosis International
 ## 🎓 Educational Background
 
 - **MBA in Business Analytics** (Ongoing): Symbiosis International University.
-- **B.Sc. Honours in Physics**: Developed a solid foundation in Linear Algebra, Multivariate Calculus, Mathematical physics, Statistical Mechanics, and computational simulations using C++/Scilab.
+- **B.Sc. Honours in Physics**: Developed a solid foundation in Linear Algebra, Multivariate Calculus, Mathematical physics, Statistical Mechanics, and Computational simulations using Python/Scilab.
 - **Google Data Analytics Specialization**: Acquired skills in data cleaning, analysis, visualization.
 
-## 🔧 Technical Skills
+## 📊 Tools & Technologies
 
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Power BI, Excel
-- **Tools & Platforms**: GitHub, Jupyter, pgAdmin, PowerPoint
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"/>
+  <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin"/>
+</p>
 
 ## 💼 Professional Experience
 
