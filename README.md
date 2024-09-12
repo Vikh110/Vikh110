@@ -50,7 +50,7 @@ I'm on a journey to master Data Science, with a keen focus on strengthening my u
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/452/sql.png" alt="SQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/344/tableau-software.png" alt="Tableau" width="50" height="50"/>
