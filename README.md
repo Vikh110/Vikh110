@@ -52,9 +52,9 @@ I'm on a journey to master Data Science, with a keen focus on strengthening my u
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo_2020.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Microsoft_Office_PowerPoint_2018%E2%80%93present.svg" alt="PowerPoint" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Tableau_Software_logo.svg" alt="Tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Microsoft_Office_PowerPoint_%282013-2019%29.svg" alt="PowerPoint" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebooks" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgAdmin" width="50" height="50"/>
