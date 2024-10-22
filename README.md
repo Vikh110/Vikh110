@@ -18,15 +18,6 @@ I'm on a journey to master Data Science, with a keen focus on strengthening my u
 - **Project Management**: Experience in handling data-driven projects from inception to completion, ensuring high-quality deliverables.
 
 
-
-
-![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3gzc293NnN2bTRyYWZrNGR0eHVobzZzZjB6Z2xlcjdteXhoaXdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp)
-
-
-
-
-
-
 ## 🌱 What I Have Worked On
 
 - [**Movie Ratings Analysis**](https://github.com/Vikh110/Exploring-Cinematic-Ratings-Bias-Detection-and-Analysis): Applied Python for data analysis and bias detection, comparing Fandango's movie ratings against other platforms to reveal discrepancies.
