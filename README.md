@@ -33,9 +33,9 @@ I'm on a journey to master Data Science, with a keen focus on strengthening my u
 
 ## 🎓 Educational Background
 
-- **MBA in Business Analytics** (Ongoing): Symbiosis International University.
-- **B.Sc. Honours in Physics**: Developed a solid foundation in Linear Algebra, Multivariate Calculus, Mathematical physics, Statistical Mechanics, and Computational simulations using Python/Scilab.
-- **Google Data Analytics Specialization**: Acquired skills in data cleaning, analysis, visualization.
+- **Masters in Applied Data Science**: Frankfurt School of Finance and Management.
+- **MBA in Business Analytics**: Symbiosis International University.
+- **B.Sc. Honours in Physics**: University of Delhi
 
 ## 📊 Tools & Technologies
 
